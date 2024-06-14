@@ -10,7 +10,7 @@ Opción 1 -> Clonando el repositorio con el comando `git clone https://github.co
 Opción 2 -> Descargar el repositorio como un ZIP, lo exportamos y dentro de la carpeta abrimos el archivo con extensión **.uproject**
 ## ENLACES
 - Gameplay: (http://localhost/)
-- Package:  (http://localhost/)
+- Package:  (https://drive.google.com/drive/folders/1JDB4EX_qTvB2prl87yng5nqlxY0cMncS?usp=sharing)
 
 ## CONTROLES
 - Con el botón Grip de los mandos podremos coger el cubo del juego.
