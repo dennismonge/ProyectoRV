@@ -14,7 +14,7 @@ Opción 2 -> Descargar el repositorio como un ZIP, lo exportamos y dentro de la 
 
 ## CONTROLES
 - Con el botón Grip de los mandos podremos coger el cubo del juego.
-- El personaje gira con el thumbstick de la mano izquierdo.
+- El personaje gira con el thumbstick de la mano izquierda.
 
 ## CRÉDITOS
 Se ha usado VRTemplate para la configuración del proyecto y algunos assets del mismo.
